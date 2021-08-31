@@ -1,0 +1,8 @@
+body {
+  background-image: url("../images/bg-image.jpg");
+  background-repeat: no-repeat;
+}
+
+#icon img{
+  width: 200px;
+}
